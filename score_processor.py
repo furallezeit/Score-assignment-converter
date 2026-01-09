@@ -4,10 +4,6 @@ import os
 import io
 warnings.filterwarnings('ignore')
 
-# 以下是原有函数（load_tables、calculate_single_score等）
-# ...（无需修改）
-
-
 def load_tables(original_file, score_table_file):
     """
     加载上传的表格文件
